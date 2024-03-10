@@ -112,27 +112,12 @@ a {
   text-decoration: none;
 }
 
-.footer{
-  position: fixed;
-  bottom: 0;
-  height:5vh;
-  width: 100vw;
-  background-color: #2D6A4F;
-  color: white;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 6px;
-  flex-direction: row;
-  text-align: center;
-  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
-}
 .header{
   height:5vh;
   width: 100vw;
   position: sticky;
   /* color: white; */
-  background-color: white;
+  background-color: rgb(78, 205, 159);
   color: rgb(8, 48, 88);
   display: flex;
   justify-content: space-between;
